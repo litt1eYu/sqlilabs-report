@@ -17,3 +17,5 @@ Host: 127.0.0.1
 ## 修复建议
 - 使用参数化查询（Prepared Statements）
 - 最小化数据库错误输出
+
+![示例截图](../assets/image/1.png)
