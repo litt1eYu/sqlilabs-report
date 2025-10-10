@@ -20,7 +20,7 @@ Host: 127.0.0.1
 
 ![示例截图](../assets/image/1.png)
 
-![示例截图](assets/images/1.png)
+![示例截图](assets/image/1.png)
 
 /sqlilabs-report/assets/image/1.png
 
