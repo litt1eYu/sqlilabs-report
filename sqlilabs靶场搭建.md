@@ -66,9 +66,10 @@ $sql = "SELECT * FROM users WHERE id='$id' LIMIT 0,1";
   
 - **演示截图：**
 
-  ![../assets/images/1.png]()
+  ![../assets/image/1.png]()
 
 - **修复建议**：
   - 使用 **预编译语句（Prepared Statement）**
   - 严格验证输入为整数类型
+
 
