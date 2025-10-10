@@ -6,3 +6,4 @@
 快速链接：
 - 环境搭建 / 复现说明：ENVIRONMENT.md
 - 在线文档（GitHub Pages）：`/docs/`（部署后访问）
+![示例截图](../assets/image/1.png)
