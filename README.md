@@ -1,9 +1,4 @@
-# SQLi-Labs 渗透测试与防御报告
+# SQLi-Labs 手工打靶报告
 
-> 作者：吴圳宇（示例）
-> 本仓库把每个关卡拆成单独页面，便于通过 GitHub Pages 浏览。
-
-快速链接：
-- 环境搭建 / 复现说明：ENVIRONMENT.md
-- 在线文档（GitHub Pages）：`/docs/`（部署后访问）
-![示例截图](assets/image/1.png)
+一个用于记录在 SQLi-Labs 靶场中手工打靶过程的简洁项目，包含关卡分析、可运行 PoC 与防御建议。  
+作者：吴圳宇 · 日期：2025 年 10 月 · 项目地址：https://github.com/litt1eYu/sqlilabs-report
