@@ -247,9 +247,9 @@ print(r.text)
 
 - id为整型
 
-  ```
+```
 $sql="SELECT * FROM users WHERE id=$id LIMIT 0,1";
-  ```
+```
 
   有回显信息
 
@@ -807,4 +807,5 @@ print_r(mysql_error());
 
 - [SQLi 常见 Payload 字典](#)
 - [ASCII 可打印字符表](#)
+
 - [工具命令参考](#)
